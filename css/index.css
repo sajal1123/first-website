@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+}
+
+.inner-container1{
+    flex: 50%;
+}
+
+.img-circle{
+    position: relative;
+    height: auto;
+    width: 450px;
+    left: 30%;
+    top: 100px;
+}
+
+.AboutMe{
+    position: relative;
+    top: 60%;
+}
+
+.p1{
+    font-family: "Monaco", monospace;
+}
+
+.top{
+    display: flex;
+}
