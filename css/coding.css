@@ -14,6 +14,7 @@
 
 .skills {
     display: flex;
+    background-color: #222;
 }
 
 .skill-image {
@@ -25,13 +26,39 @@
 }
 
 .languages {
-    margin: auto;
+    left: 100px;
+    margin-left: 15%;
+    background-color: #222;
+}
+.languages:hover{
+    background-color: #111;
 }
 
 .technologies{
-    margin: auto;
+    /* margin-left: 1%; */
+    position: relative;
+    background-color: #222;
+}
+.technologies:hover{
+    background-color: #111;
 }
 
 .github-card{
     display: flex;
+    width: 120%;
+}
+.summary{
+    width: 90%;
+}
+.leetcard{
+    width: 80%;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
 }

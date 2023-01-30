@@ -4,17 +4,19 @@ h1{
     color: white;
 }
 h2{
-    color: azure;
+    color: white;
 }
 
 .photo-section1{
     margin: auto;
     width: 100%;
+    background-color: #222;
 }
 
 .hover{
     margin: auto;
     width: 90%;
+    background-color: #222;
 }
 /* .hover:hover{
     width: 100%;
@@ -23,8 +25,11 @@ h2{
 .photo-section2{
     margin: auto;
     width: 100%;
+    background-color: #222;
 }
-
+.photo-section3{
+    background-color: #222;
+}
 .container-photos{
     margin: auto;
     width: 80%;
@@ -35,4 +40,9 @@ iframe:hover{
 }
 iframe{
     height: 400px;
+}
+.hover button{
+    position:relative;
+    top: 0;
+    right: 0;
 }

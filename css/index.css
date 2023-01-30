@@ -1,5 +1,6 @@
 .container{
     display: flex;
+    background-color: black;
 }
 
 .inner-container1{
@@ -20,6 +21,7 @@
 }
 
 .p1{
+    color: white;
     font-family: "Monaco", monospace;
 }
 
